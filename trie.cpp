@@ -1,3 +1,4 @@
+// Do not initialize root with NULL
 #include <bits/stdc++.h>
 #define lli long long int
 #define pb push_back
